@@ -11,7 +11,7 @@ Hi, I'm [Aneshvardan Pushparaj](https://www.linkedin.com/in/aneshvardan-pushpara
 ## My Interests:
 
 - 👨🏽‍💻 Web application development
-- 🌱 Financial Technology 
+- 🌱 Mathematics
 - 📫 How to reach me: aneshvardan8@gmail.com
 
 
