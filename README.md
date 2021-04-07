@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm [Aneshvardan Pushparaj](https://www.linkedin.com/in/aneshvardan-pushparaj/), a Software Engineer. Currently, I am working as a Full Stack Engineer at Learning Management System based start up. Beside's programming, I love FC Barcelona and traveling. 
+Hi, I'm [Aneshvardan Pushparaj](https://www.linkedin.com/in/aneshvardan-pushparaj/), a Software Engineer. Currently, I am working as a Full Stack Engineer at Learning Management System based start up. Beside's programming, I love to play the guitar, play tennis and go to the gym. I am also a huge Chelsea FC fan. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
