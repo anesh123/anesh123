@@ -12,7 +12,7 @@ Hi, I'm [Aneshvardan Pushparaj](https://www.linkedin.com/in/aneshvardan-pushpara
 
 - 👨🏽‍💻 Web application development
 - 🌱 Financial Technology 
-- 💬 Ask me about anything, I am happy to help
+- 💬 I am constantly trying to improve my web application development skills, so please reach out if you would like colloborate
 - 📫 How to reach me: aneshvardan8@gmail.com
 
 
