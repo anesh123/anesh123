@@ -1,8 +1,6 @@
 
 <h2> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<a href="https://www.linkedin.com/in/aneshvardan-pushparaj/">
-  <img align="left" alt="Anesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 
 
 Hi, I'm [Aneshvardan Pushparaj](https://www.linkedin.com/in/aneshvardan-pushparaj/), a Software Engineer. Currently, I am working as a Full Stack Engineer at Learning Management System based start up. Beside's programming, I love to play the guitar, play tennis and go to the gym. I am also a huge Chelsea FC fan. 
