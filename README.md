@@ -3,7 +3,7 @@
 
 
 
-Hi, I'm [Aneshvardan Pushparaj](https://www.linkedin.com/in/aneshvardan-pushparaj/), a Software Engineer. Currently, I am working as a Full Stack Engineer at Learning Management System based start up. My hobbies are men's style, fitness and watching tennis.
+Hi, I'm [Aneshvardan Pushparaj](https://www.linkedin.com/in/aneshvardan-pushparaj/), a Software Engineer based in Dallas. Currently, I am working for one of Comcast's backend teams. In my free time I keep upto date with men's style, watch tennis and  explore restaurants & recreactional places in the city.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
